@@ -1,0 +1,105 @@
+body{
+	background-image: url(blue.jpg);
+}
+
+.mg{
+	display:block;
+	width:40px;
+	font-family:cursive;
+	background-color:#a9cce3;
+	border-radius:50px;
+	padding:15px 30px;
+	color:white;
+	text-decoration:none;
+	margin-left:90%;
+	margin-top:1%;
+	position:absolute;
+}
+
+.mg:hover{
+	background-color:#D98880;
+	border:2px;
+	color:white;
+}
+
+.lilo{
+	font-family:Time new roman;
+	position:absolute;
+	font-size:60px;
+	color:#a9cce3;
+	margin-top:20px;
+	margin-left:32%;
+}
+
+.stich{
+	font-family:cursive;
+	color:#a9cce3;
+	margin-top:60px;
+	margin-left:42%;
+	font-size:30px;
+	position:absolute;
+}
+
+div.libritos{
+	margin: 70px;
+	margin-top: 150px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 180px;
+	border-radius:10px;
+}
+
+div.libritos img{
+	
+	border-radius:10px;
+}
+
+div.libritos:hover{
+	border: 1.95px solid white;
+}
+
+div.libritos img{
+	width:100%;
+	height:;
+}
+div.tay{
+	padding:15px;
+	text-align:center;
+	color:black;
+	background-color:white;
+	border-radius:10px;
+	font-family:cursive;
+}
+	
+	
+	
+div.galeria{
+	margin: 70px;
+	border: 1px solid #ccc;
+	float: left;
+	margin-top:50px;
+	width: 180px;
+	border-radius:10px;
+}
+
+div.galeria img{
+	
+	border-radius:10px;
+}
+
+div.galeria:hover{
+	border: 1.95px solid white;
+}
+
+div.galeria img{
+	width:100%;
+	height:;
+}
+div.desc{
+	padding:15px;
+	text-align:center;
+	color:black;
+	background-color:white;
+	border-radius:10px;
+	font-family:cursive;
+}
